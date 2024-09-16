@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**sheeshabolshaning/sheeshabolshaning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## shan's repository 😻
+- 🔭 I’m currently a 1st Year BSIT Student
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with learning other programming languages
+- 📫 How to reach me: margaretshanie@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love Graphic Design
+
+--------------------------------------------------------------------
+I hope to learn new things as I begin my journey here on Github. My 1st repository isn't the prettiest 
+considering my love for graphic design.. still, I'd take this as a new learning opportunity. Everything has it's learning curve, right?
